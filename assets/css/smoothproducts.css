@@ -10,7 +10,7 @@ html, body {
   border: 5px solid #eee;
   border-radius: 3px;
   font-size: 12px;
-  color: #888;
+  color: rgba(238, 227, 227, 0.89);
 }
 
 .sp-wrap {
